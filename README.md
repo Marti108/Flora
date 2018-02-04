@@ -1,2 +1,2 @@
 # Flora
-A flower department homepage
+A flower shop homepage
